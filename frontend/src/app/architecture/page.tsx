@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = { title: "Architecture · Audio Notes" };
 
-const GITHUB_URL = process.env.NEXT_PUBLIC_GITHUB_URL ?? "https://github.com/";
+const GITHUB_URL = process.env.NEXT_PUBLIC_GITHUB_URL ?? "https://github.com/Ayushivijay82/audio-note";
 
 function H2({ children }: { children: React.ReactNode }) {
   return <h2 className="mt-8 text-xl font-semibold text-violet-800">{children}</h2>;
