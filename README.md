@@ -1,4 +1,4 @@
-# Audio Notes
+# Audio Notes Project
 
 Upload an audio file of any length and get back a transcript (Gnani ASR) and a summary (Gemini).
 Past uploads are listed and can be reopened. How it works: see the app's `/architecture` page.
